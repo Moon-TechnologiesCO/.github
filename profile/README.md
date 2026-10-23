@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://moon-technologiesco.github.io"><b>Website</b></a> ·
-  <a href="https://github.com/Moon-TechnologiesCO/brand"><b>Brand book</b></a> ·
   <a href="https://github.com/Moon-TechnologiesCO/moon-fonts"><b>Moon fonts</b></a>
 </p>
 
@@ -30,7 +29,7 @@ free software through **Moon Open Source**.
 ### Our principles
 
 **Transparency** · **Privacy first** · **Craft** · **Warmth** · **Community** · **Constancy** —
-six principles, one moon. Read why in our [brand book](https://github.com/Moon-TechnologiesCO/brand/blob/main/BRAND.md).
+six principles, one moon. Read why on [our website](https://moon-technologiesco.github.io/#principles).
 
 <img src="assets/lino.png" width="110" align="right" alt="Lino, the olinguito">
 
